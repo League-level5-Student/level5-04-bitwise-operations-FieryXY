@@ -31,7 +31,7 @@ public class DecimalToBinary {
 		 *         
 		 *         43 in decimal is 101011 in binary!
 		 */
-		System.out.println(toBinary(8));
+		System.out.println(toBinary(43));
 		
 	}
 	
